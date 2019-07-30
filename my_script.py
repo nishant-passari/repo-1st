@@ -15,7 +15,7 @@ def Armstrong(Num):              # armstrong function
             n_ = n               # updating value of n to n_
         if sum_ == i:            # if condition to append the armstrong numbers into the  list
             armstrong.append(i)
-    return armstrong             # returning the armstrong list
+    #return armstrong             # returning the armstrong list
 
 print(Armstrong(Num))            # calling the armstrong function
 
