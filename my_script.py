@@ -17,5 +17,5 @@ def Armstrong(Num):              # armstrong function
             armstrong.append(i)
     #return armstrong             # returning the armstrong list
 
-print(Armstrong(Num))            # calling the armstrong function
+print(Armstrongg(Num))            # calling the armstrong function
 
