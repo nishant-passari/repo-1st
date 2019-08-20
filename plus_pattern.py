@@ -11,6 +11,7 @@ def pattern(n):
             for i in range(n):
                 print("*", end='')
             print()
+        print("webhook done successfully")
 
 
 pattern(int(sys.argv[1]))
