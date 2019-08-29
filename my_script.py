@@ -18,4 +18,4 @@ def Armstrong(Num):              # armstrong function
     #return armstrong             # returning the armstrong list
 
 print(Armstrongg(Num))            # calling the armstrong function
-
+#edited just for testing
